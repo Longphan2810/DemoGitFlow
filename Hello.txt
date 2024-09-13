@@ -1,6 +1,4 @@
 hello
-<<<<<<< HEAD
-=======
 
 Ducluong
 
@@ -10,4 +8,3 @@ mhieu123
 
 
 minhdang123
->>>>>>> origin/feature/1
