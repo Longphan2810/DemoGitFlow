@@ -1,7 +1,5 @@
 hello
-<<<<<<< HEAD
+
 khanhnq
-=======
+
 mhieu123
->>>>>>> origin/feature/1
-feature/1
