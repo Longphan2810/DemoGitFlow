@@ -1,1 +1,13 @@
 hello
+<<<<<<< HEAD
+=======
+
+Ducluong
+
+khanhnq
+
+mhieu123
+
+
+minhdang123
+>>>>>>> origin/feature/1
